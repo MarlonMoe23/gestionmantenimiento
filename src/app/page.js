@@ -16,7 +16,7 @@ export default function Home() {
 
         <a href="https://reportesdiarios.vercel.app/" className="button" target="_blank" rel="noopener noreferrer">Reportes Diarios de Mantenimiento</a>
         <a href="https://horasextras.vercel.app/" className="button" target="_blank" rel="noopener noreferrer">Ingreso de Horas Extras</a>
-        <a href="https://inspecciondiaria.abacusai.app/" className="button" target="_blank" rel="noopener noreferrer">Inspección de Orden y Limpieza en el Taller</a>
+        <a href="https://turnosfiltros.vercel.app/" className="button filtros" target="_blank" rel="noopener noreferrer">Limpieza de Filtros</a>
         <a href="https://problemas.abacusai.app/" className="button" target="_blank" rel="noopener noreferrer">Gestión de Problemas y Mejoras</a>
 
         <div className="separator">
@@ -83,6 +83,22 @@ export default function Home() {
           background-color: #004a99;
           box-shadow: 0 8px 18px rgba(0, 74, 153, 0.5);
         }
+
+a.button.filtros {
+  background-color: #28a745; /* verde */
+  box-shadow: 0 6px 14px rgba(40, 167, 69, 0.4);
+}
+
+a.button.filtros:hover,
+a.button.filtros:focus {
+  background-color: #218838;
+  box-shadow: 0 8px 18px rgba(33, 136, 56, 0.6);
+}
+
+
+
+
+
 
         @media (prefers-color-scheme: dark) {
           .container {

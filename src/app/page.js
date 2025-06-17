@@ -17,7 +17,7 @@ export default function Home() {
         <a href="https://reportesdiarios.vercel.app/" className="button" target="_blank" rel="noopener noreferrer">Reportes Diarios de Mantenimiento</a>
         <a href="https://horasextras.vercel.app/" className="button" target="_blank" rel="noopener noreferrer">Ingreso de Horas Extras</a>
         <a href="https://turnosfiltros.vercel.app/" className="button filtros" target="_blank" rel="noopener noreferrer">Limpieza de Filtros</a>
-     // <a href="https://problemas.abacusai.app/" className="button" target="_blank" rel="noopener noreferrer">Gestión de Problemas y Mejoras</a>
+     {/* <a href="https://problemas.abacusai.app/" className="button" target="_blank" rel="noopener noreferrer">Gestión de Problemas y Mejoras</a> */}
 
      
 

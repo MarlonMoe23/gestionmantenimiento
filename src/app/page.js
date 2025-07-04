@@ -18,6 +18,7 @@ export default function Home() {
         <a href="https://horasextras.vercel.app/" className="button" target="_blank" rel="noopener noreferrer">Ingreso de Horas Extras</a>
         <a href="https://turnosfiltros.vercel.app/" className="button" target="_blank" rel="noopener noreferrer">Turnos Atención Emergentes</a>
         <a href="https://enviareportes.vercel.app/" className="button" target="_blank" rel="noopener noreferrer">Gestión de Reportes por Supervisor</a>
+        <a href="https://capacitaciontoachi.vercel.app//" className="button" target="_blank" rel="noopener noreferrer">Capacitación</a>
 
       </main>
 

@@ -14,7 +14,6 @@ export default function Home() {
         <h1>Mantenimiento Mecánico</h1>
         <h2>CHTP</h2>
 
-        <a href="https://reportesdiarios.vercel.app/" className="button" target="_blank" rel="noopener noreferrer">Reportes Diarios de Mantenimiento</a>
         <a href="https://horasextras.vercel.app/" className="button" target="_blank" rel="noopener noreferrer">Ingreso de Horas Extras</a>
         <a href="https://turnosfiltros.vercel.app/" className="button" target="_blank" rel="noopener noreferrer">Turnos Atención Emergentes</a>
         <a href="https://enviareportes.vercel.app/" className="button" target="_blank" rel="noopener noreferrer">Gestión de Reportes por Supervisor</a>
